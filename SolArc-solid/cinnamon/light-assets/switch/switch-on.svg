@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg7539"
+   height="20"
+   width="50">
+  <defs
+     id="defs7541">
+    <linearGradient
+       osb:paint="solid"
+       id="selected_fg_color">
+      <stop
+         id="stop4181"
+         offset="0"
+         style="stop-color:#fdf6e3;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color">
+      <stop
+         id="stop4166"
+         offset="0"
+         style="stop-color:#268bd2;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1051.3622"
+       x2="26"
+       y1="1031.3622"
+       x1="26"
+       id="linearGradient4168"
+       xlink:href="#selected_bg_color" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-454.09487"
+       x2="980.04999"
+       y1="-456.09485"
+       x1="980.04999"
+       id="linearGradient4183"
+       xlink:href="#selected_fg_color" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-454.09487"
+       x2="981.54999"
+       y1="-462.09485"
+       x1="981.54999"
+       id="linearGradient4185"
+       xlink:href="#selected_fg_color" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1050.3622"
+       x2="41"
+       y1="1032.3622"
+       x1="41"
+       id="linearGradient4187"
+       xlink:href="#selected_fg_color" />
+  </defs>
+  <metadata
+     id="metadata7544">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-120,87.999997)"
+     id="layer1">
+    <g
+       id="switch-active-2"
+       style="display:inline;opacity:1"
+       transform="translate(-886,-448)">
+      <g
+         style="display:inline;opacity:1"
+         transform="translate(885,450)"
+         id="layer1-9-0">
+        <g
+           id="switch-active-8"
+           transform="translate(120,-116.99998)"
+           style="display:inline">
+          <g
+             transform="translate(0,-1004.3622)"
+             id="g3900-1-87">
+            <rect
+               y="1029.3622"
+               x="0"
+               height="24"
+               width="52"
+               id="rect5465-3-3"
+               style="display:inline;opacity:0;fill:#434343;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <rect
+               rx="11"
+               ry="11"
+               y="1031.3622"
+               x="1"
+               height="20"
+               width="50"
+               id="rect2987-0-8"
+               style="fill:url(#linearGradient4168);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+            <circle
+               r="9"
+               cy="1041.3622"
+               cx="41"
+               id="path3759-0"
+               style="fill:url(#linearGradient4187);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4816"
+         transform="translate(-1.0003162,0)">
+        <rect
+           style="display:inline;opacity:1;fill:url(#linearGradient4183);fill-opacity:1;stroke:none"
+           id="rect3977-39-2"
+           width="5"
+           height="1.9999826"
+           x="977.54999"
+           y="-456.09485"
+           rx="0.66666085"
+           ry="0.66666085"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+        <rect
+           style="display:inline;opacity:1;fill:url(#linearGradient4185);fill-opacity:1;stroke:none"
+           id="rect3979-7-0"
+           width="2"
+           height="7.9999828"
+           x="980.54999"
+           y="-462.09485"
+           ry="0"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>
