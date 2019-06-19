@@ -4,7 +4,7 @@ This repository contains ready to use themes prebuilt from [Solark](https://gith
 
 Original [solark](https://github.com/schemar/solarc-theme) project builds upons the popular [Ark](https://github.com/horst3180/arc-theme) theme.
 
-### Note: This is build with no transparency(solid).
+### Note: This is built with no transparency(solid).
 
 Build [configuration](https://github.com/schemar/solarc-theme/blob/master/README.md#manual-installation):
 
